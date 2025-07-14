@@ -64,4 +64,4 @@ uglyURLs = false
   url = "https://www.linkedin.com/company/catalystedgeorg"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON","RobotsTXT"]
