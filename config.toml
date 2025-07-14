@@ -5,9 +5,6 @@ theme = "PaperMod"
 enableRobotsTXT = true
 canonifyURLs = true
 
-[pagination]
-  pagerSize = 10
-
 [params]
   homeInfoParams = true
   logo = "images/logo.png"
