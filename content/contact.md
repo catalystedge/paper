@@ -1,11 +1,12 @@
 ---
 title: "Contact Us"
-description: "Get in touch with the Catalyst Edge team"
+date: 2024-01-01
+type: "page"
 ---
 
-## Reach Out
+You can reach us at:
 
-Want to know more? We're here to help.
+📧 **hello@catalystedge.org**  
+🔗 [LinkedIn](https://www.linkedin.com/company/catalystedgeorg)
 
-📧 Email: [contact@catalystedge.org](mailto:contact@catalystedge.org)  
-🕒 Response time: Typically within 1 business day
+We’ll respond within 1–2 business days.
