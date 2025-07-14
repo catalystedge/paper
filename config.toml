@@ -16,6 +16,7 @@ canonifyURLs = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   description = "Strategic growth tools for ambitious finance professionals and CXOs."
+  favicon = "favicon.ico"
 
 [params.homeInfoParams]
   Title = "Welcome to Catalyst Edge"
@@ -67,5 +68,3 @@ canonifyURLs = true
 
 [params.assets]
   customCSS = ["css/custom.css"]
-
-<link rel="icon" href="/favicon.ico">
