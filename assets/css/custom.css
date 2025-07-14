@@ -89,3 +89,16 @@ section {
   margin: auto;
   padding: 0 1.5em;
 }
+
+/* Logo styling */
+.site-logo img {
+  max-height: 48px;
+  width: auto;
+  margin: 0.25em 0;
+}
+
+nav .site-logo {
+  display: flex;
+  align-items: center;
+  padding-right: 1em;
+}
