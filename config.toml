@@ -5,6 +5,7 @@ title = "Catalyst Edge"
 theme = "PaperMod"
 enableRobotsTXT = true
 defaultContentLanguage = "en"
+uglyURLs = false
 
 [pagination]
   pagerSize = 10
