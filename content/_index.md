@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Catalyst Edge"
-description: "Strategic Growth Tools for Finance Professionals"
+ "Welcome to Catalyst Edge"
+description : "Strategic Growth Tools for Finance Professionals"
 ---
-![Catalyst Edge Logo](/images/logo.jpg)
+![Logo](/static/images/logo.jpg)
 ---
 # Welcome to Catalyst Edge
 A professional learning space built for mid to senior-level finance professionals and CXOs who are ready to lead with clarity, confidence, and strategic vision.
