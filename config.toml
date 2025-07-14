@@ -64,4 +64,11 @@ uglyURLs = false
   url = "https://www.linkedin.com/company/catalystedgeorg"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON","RobotsTXT"]
+  home = ["HTML", "RSS", "JSON", "Robots", "Sitemap"]
+
+[outputFormats.Robots]
+  baseName = "robots"
+  mediaType = "text/plain"
+  isPlainText = true
+  notAlternative = true
+  permalinkable = false
