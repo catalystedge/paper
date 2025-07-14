@@ -6,7 +6,6 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  homeInfoParams = true
   logo = "images/logo.png"
   defaultTheme = "auto"
   ShowShareButtons = false
@@ -17,6 +16,10 @@ canonifyURLs = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   description = "Strategic growth tools for ambitious finance professionals and CXOs."
+
+[params.homeInfoParams]
+  Title = "Welcome to Catalyst Edge"
+  Content = "Strategic tools for ambitious finance professionals and CXOs."
 
 [menu]
 
