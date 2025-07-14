@@ -18,6 +18,9 @@ canonifyURLs = true
   description = "Strategic growth tools for ambitious finance professionals and CXOs."
   favicon = "favicon.ico"
 
+[params.assets]
+  customCSS = ["css/custom.css"]
+  
 [params.homeInfoParams]
   Title = "Welcome to Catalyst Edge"
   Content = "Strategic tools for ambitious finance professionals and CXOs."
@@ -66,5 +69,3 @@ canonifyURLs = true
 [pagination]
   pagerSize = 10
 
-[params.assets]
-  customCSS = ["css/custom.css"]
