@@ -1,10 +1,22 @@
 ---
 title: "Privacy Policy"
-description: "Your privacy matters to us"
+date: 2024-01-01
+type: "page"
 ---
 
-## Your Data, Your Control
+At Catalyst Edge, we respect your privacy and are committed to protecting any personal information you share with us.
 
-We do not sell your data. All information shared is kept confidential as per industry norms.
+### What we collect
+We may collect your name, email, and professional details when you register for courses or contact us.
 
-For queries, contact us at [contact@catalystedge.org](mailto:contact@catalystedge.org)
+### How we use your data
+- To respond to queries or requests
+- To send course updates or newsletters (only with your consent)
+- To improve our services
+
+### We don’t:
+- Sell or rent your data
+- Share your data without permission
+
+### Contact Us
+For any privacy-related questions, please email: **hello@catalystedge.org**
