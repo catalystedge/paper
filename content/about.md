@@ -1,14 +1,14 @@
 ---
 title: "About Catalyst Edge"
-description: "Our vision, values, and who we serve"
+layout: "single"
 ---
 
-## Who We Are
+At **Catalyst Edge**, we specialize in empowering mid to senior-level finance professionals through practical, industry-relevant education.
 
-We are a professional learning platform designed exclusively for finance professionals in India.
+A team formed by experienced coaches and ex-bankers, our programs are designed to help you:
 
-## Why Catalyst Edge?
+- Tackle real-world financial challenges
+- Build strategic insight
+- Enhance career growth with confidence
 
-- Built by finance practitioners
-- Rooted in practicality, not just theory
-- Designed for busy mid-career leaders
+Join a community committed to high standards, practical outcomes, and lifelong learning.
