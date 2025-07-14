@@ -6,7 +6,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  logo = "images/logo.jpg"
+  logo = "images/catalystedge-logo.png"
   defaultTheme = "auto"
   ShowShareButtons = false
   ShowReadingTime = true
@@ -68,3 +68,4 @@ canonifyURLs = true
 [params.assets]
   customCSS = ["css/custom.css"]
 
+<link rel="icon" href="/favicon.ico">
