@@ -4,7 +4,9 @@ title = "Catalyst Edge"
 theme = "PaperMod"
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   homeInfoParams = true
