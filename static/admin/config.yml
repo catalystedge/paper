@@ -1,6 +1,11 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: catalystedge/paper
   branch: master
+  base_url: https://api.github.com
+  auth_scope: repo
+  app_id: Ov23lixQg6lS4q1rmuia
+  auth_endpoint: https://github.com/login/oauth/authorize
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
