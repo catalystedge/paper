@@ -1,123 +1,80 @@
-
-:root {
-  --primary: #1C2A4B;      /* Deep Blue */
-  --secondary: #f4f6fa;    /* Light background */
-  --accent: #1da1f2;       /* Sky blue */
-  --text-color: #1a1a1a;
-  --heading-font: 'Poppins', sans-serif;
-  --body-font: 'Inter', sans-serif;
-}
-
-/* Reset */
+/* === Layout Backgrounds === */
 body {
-  font-family: var(--body-font);
-  font-size: 16px;
-  line-height: 1.6;
-  color: var(--text-color);
-  background-color: var(--secondary);
-  margin: 0;
-  padding: 0;
+  background-color: #f7f9fb;  /* Light background for clean layout */
+  color: #1a1a1a;
 }
 
-h1, h2, h3, h4 {
-  font-family: var(--heading-font);
-  font-weight: 600;
-  color: var(--primary);
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+.navbar, .footer {
+  background-color: #002c4d !important;  /* Deep navy consistent with brand */
+  color: white;
 }
 
-a {
-  color: var(--accent);
-  text-decoration: none;
+/* === Footer Styling === */
+.footer {
+  padding: 1.5rem 2rem;
+  font-size: 0.95rem;
+  text-align: center;
 }
 
-a:hover {
+.footer a {
+  color: #ffffff;
+  margin: 0 0.75rem;
+}
+
+.footer a:hover {
+  color: #7fb1ff;
   text-decoration: underline;
 }
 
-nav {
-  background-color: var(--primary);
-  padding: 1em 1.5em;
-}
-
-nav a {
-  color: white;
-  font-weight: 500;
-  margin-right: 1em;
-}
-
-nav a:hover {
-  color: var(--accent);
-}
-
-.site-logo img {
-  max-height: 48px;
-  width: auto;
-  margin: 0.25em 0;
-}
-
-.btn,
-button {
-  display: inline-block;
-  padding: 0.6em 1.2em;
-  background-color: var(--primary);
-  color: white;
-  border: none;
-  border-radius: 5px;
+/* === Typography === */
+h1, h2, h3 {
+  font-family: 'Inter', sans-serif;
   font-weight: 600;
-  cursor: pointer;
-  transition: background 0.3s ease;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
-.btn:hover,
-button:hover {
-  background-color: #162038;
+p, li {
+  font-size: 1.05rem;
+  line-height: 1.6;
 }
 
-footer {
-  background-color: var(--primary);
+/* === Navigation Bar === */
+.navbar a {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #ffffff !important;
+  margin-left: 1rem;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  color: #aad4ff !important;
+}
+
+/* === Button + Link Styling === */
+a.button, button {
+  background-color: #004080;
   color: white;
-  padding: 2em;
-  text-align: center;
-  font-size: 0.95em;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
 }
 
-footer a {
-  color: var(--accent);
+a.button:hover, button:hover {
+  background-color: #0059b3;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1em 0;
-}
-
-section {
-  padding: 2em 1.5em;
-}
-
+/* === Utilities === */
 .container {
-  max-width: 1200px;
-  margin: auto;
-  padding: 0 1.5em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem;
 }
 
-.hero {
-  background: white;
-  text-align: center;
-  padding: 4em 2em;
-  border-bottom: 1px solid #ccc;
-}
-
-.hero h1 {
-  font-size: 2.5em;
-  margin-bottom: 0.5em;
-}
-
-.hero p {
-  font-size: 1.2em;
-  color: #444;
-  margin-bottom: 1.5em;
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2rem 0;
 }
