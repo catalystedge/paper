@@ -1,0 +1,20 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.148.1"
+
+[[redirects]]
+  from = "https://catalystedge.org/*"
+  to = "https://www.catalystedge.org/:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer-when-downgrade"
