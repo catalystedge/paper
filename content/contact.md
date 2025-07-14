@@ -1,12 +1,10 @@
 ---
 title: "Contact Us"
-date: 2024-01-01
-type: "page"
+layout: "single"
 ---
 
-You can reach us at:
+📩 **Email:** hello@catalystedge.org  
+🌐 **LinkedIn:** [Catalyst Edge](https://www.linkedin.com/company/catalystedgeorg)  
+🗓️ **Need help or have a query?** Reach out anytime — we aim to respond within 24 hours.
 
-📧 **hello@catalystedge.org**  
-🔗 [LinkedIn](https://www.linkedin.com/company/catalystedgeorg)
-
-We’ll respond within 1–2 business days.
+> You can also embed a contact form via Formspree or Netlify Forms later.
