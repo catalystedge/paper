@@ -1,0 +1,64 @@
+baseURL = "https://www.catalystedge.org/"
+languageCode = "en-us"
+title = "Catalyst Edge"
+theme = "PaperMod"
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 10
+
+[params]
+  homeInfoParams = true
+  logo = "images/logo.png"
+  defaultTheme = "auto"
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  description = "Strategic growth tools for ambitious finance professionals and CXOs."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "testimonials"
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  pagerSize = 10
