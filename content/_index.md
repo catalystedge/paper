@@ -1,26 +1,52 @@
 ---
- "Welcome to Catalyst Edge"
-description : "Strategic Growth Tools for Finance Professionals"
+title: "Home"
+description: "Catalyst Edge | Strategic Growth Tools for Finance Professionals"
 ---
-![Logo](/static/images/logo.jpg)
+
+![Catalyst Edge Logo](/images/logo.jpg)
+
 ---
+
 # Welcome to Catalyst Edge
-A professional learning space built for mid to senior-level finance professionals and CXOs who are ready to lead with clarity, confidence, and strategic vision.
+
+A transformation space for finance professionals ready to lead with clarity, confidence, and sustainable energy.
+
 ---
-## Start Your Journey
-**🎓 Expert-Led Courses**  
-Actionable, case-driven programs on leadership, stress resilience, and financial transformation.
-**📚 Free Resources**  
-Downloadable tools to manage stress, improve decision-making, and align your professional growth.
-**📰 Insights & Articles**  
-Timely insights, blog posts, and interviews to fuel your next strategic move.
+
+## Who We Serve
+
+- Mid-to-senior level finance professionals
+- CXOs navigating leadership complexity
+- Bankers, consultants, and advisors seeking meaningful growth
+
 ---
-## Explore
-[Explore Courses](/courses/)  
-[Read the Blog](/blog/)  
-[Download Resources](/resources/)  
-[Contact Us](/contact/)
+
+## What You'll Find Here
+
+- 🎓 Expert-led courses with real-world applications  
+- 🛠️ Practical tools for performance, wellbeing & strategy  
+- 📰 Insightful articles, case studies, and guides  
+- 🤝 Human-centered coaching and support
+
 ---
-> “Catalyst Edge gave me frameworks I use every day in boardrooms.”  
-> — Finance Director, Manufacturing Sector
+
+## Start Exploring
+
+[→ Explore Courses](/courses/)  
+[→ Read Articles](/blog/)  
+[→ Download Free Tools](/resources/)  
+[→ Contact Us](/contact/)
+
 ---
+
+## What People Say
+
+
+---
+
+## Ready to Get Started?
+
+You don’t need to burn out to succeed.  
+You need clarity, structure, and alignment.
+
+[Get in Touch →](/contact/)
