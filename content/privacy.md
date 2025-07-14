@@ -1,22 +1,15 @@
 ---
 title: "Privacy Policy"
-date: 2024-01-01
-type: "page"
+layout: "single"
 ---
 
-At Catalyst Edge, we respect your privacy and are committed to protecting any personal information you share with us.
+We value your privacy. Catalyst Edge does not sell, trade, or rent your personal information.
 
-### What we collect
-We may collect your name, email, and professional details when you register for courses or contact us.
+**What We Collect:**
+- Email IDs (for course access or contact forms)
+- Site analytics data (via Google Analytics)
 
-### How we use your data
-- To respond to queries or requests
-- To send course updates or newsletters (only with your consent)
-- To improve our services
+**What We Don’t Do:**
+- No ads, no third-party tracking without consent.
 
-### We don’t:
-- Sell or rent your data
-- Share your data without permission
-
-### Contact Us
-For any privacy-related questions, please email: **hello@catalystedge.org**
+We comply with applicable data protection laws in India and use SSL encryption across the site.
