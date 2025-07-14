@@ -6,7 +6,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  logo = "images/logo.png"
+  logo = "images/logo.jpg"
   defaultTheme = "auto"
   ShowShareButtons = false
   ShowReadingTime = true
