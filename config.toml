@@ -5,7 +5,9 @@ title = "Catalyst Edge"
 theme = "PaperMod"
 enableRobotsTXT = true
 defaultContentLanguage = "en"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Catalyst Edge"
