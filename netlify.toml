@@ -6,6 +6,12 @@
   HUGO_VERSION = "0.148.1"
 
 [[redirects]]
+  from = "http://catalystedge.org/*"
+  to = "https://www.catalystedge.org/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://catalystedge.org/*"
   to = "https://www.catalystedge.org/:splat"
   status = 301
